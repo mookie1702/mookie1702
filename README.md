@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mookie1702
-- 👀 I’m interested in Event Camera.
-- 🌱 I’m currently learning SLAM.
-- 📫 How to reach me : mookie1702@outlook.com
+👋 Hi, I’m mookie.
+
+👀 I’m interested in Event Camera, UAV.
+
+📫 How to contact me : mookie1702@outlook.com
